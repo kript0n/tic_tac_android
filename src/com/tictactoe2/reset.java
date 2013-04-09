@@ -3,10 +3,9 @@ package com.tictactoe2;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.widget.Button;
 
-public class reset extends MainActivity implements OnClickListener{
+public class reset extends MainActivity {
 	
 	Button yes, no;
 	
